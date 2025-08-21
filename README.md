@@ -21,6 +21,8 @@ We meet to discuss ways to improve digital accessibility in our organisations.
 
 [Register to attend](https://wellingtonuni-professional.nz/course/digital-accessibility-discussion-group/)
 
+Group members are made up of writers, designers, developers and product owners, with a mix of more experienced accessibility practitioners, and people new to accessibility best practices.
+
 ## Why we meet
 
 Accessibility work can be tiring, especially if you’re the only one pushing for it! In this group, we support each other, share approaches, and learn from each other. We also share how we’re making our work more accessible, and how we’re upping our own skills at accessibility. We meet in person so that we can be open and honest, in a safe space.
