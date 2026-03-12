@@ -1,0 +1,11 @@
+- Digital Accessibility Discussion Group
+- Small, friendly, group
+  - Mostly working professionals, some students
+  - Some in accessibility full-time, but most doing it as a sneaky part of their job
+- Discuss real world problems
+  - how to work with them or around them
+  - Wide variety of topics: product, design, development
+  - Wide variety of experience levels: foundational, intermediate, expert
+- Meet on the last Tuesday of the month
+  - for most of the year
+  - 4:30pm to 6:30pm
