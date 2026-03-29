@@ -7,7 +7,6 @@ Short URL for this page: https://bit.ly/dadglearning.
 ## Guides and Checklists
 
 - [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_overview&technologies=smil%2Cpdf%2Cflash%2Csl&showtechniques=123%2C242)
-- [WAI-Guide](https://www.w3.org/WAI/about/projects/wai-guide/)
 - [Intopia's Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
 
 ## Sites
