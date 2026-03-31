@@ -110,4 +110,4 @@ Short URL for this page: https://bit.ly/dadglearning.
  ### Meetups
   - DACOP
   - DADG
-  - Maia's group
+  - [Wellington Web Accessibility meetup](https://docs.google.com/forms/d/e/1FAIpQLSfOyi0pd3PavmVrZGjmNjKskZ7u2SgIdhmardWIHlw_MOug3w/viewform) (next event in May)
