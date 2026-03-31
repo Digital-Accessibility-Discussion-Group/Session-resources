@@ -39,6 +39,7 @@ Short URL for this page: https://bit.ly/dadglearning.
 - Derek Featherstone's UX design courses
   - [UX Foundations Accessibility](https://www.linkedin.com/learning/ux-foundations-accessibility) — on LinkedIn Learning
   - [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design)
+- [Vision Australia's Training](https://www.visionaustralia.org/business-consulting/digital-access/training)
 - Development/Testing
   - [Instructor-led training by TetraLogical](https://tetralogical.com/services/instructor-led-training/)
 
@@ -97,10 +98,12 @@ Short URL for this page: https://bit.ly/dadglearning.
   - [TetraLogical](https://tetralogical.com/articles/)
   - [UK Government Digital Service](https://gds.blog.gov.uk/category/accessibility/)
   - [WebAIM](https://webaim.org/blog/)
+    - [The WebAIM Million](https://webaim.org/projects/million/) - yearly report on the accessibility of the top 1,000,000 home pages
 - Development
   - [CSS Tricks articles tagged accessibility](https://css-tricks.com/tag/accessibility/)
   - [TGPi](https://www.tpgi.com/blog/)
   - [Mozilla Developer Network](https://developer.mozilla.org/)
+  - [Accessibility Articles & Videos at NNGroup](https://www.nngroup.com/topic/accessibility/)
     
 #### Individual bloggers
 
