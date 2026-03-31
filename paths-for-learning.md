@@ -49,6 +49,22 @@ Short URL for this page: https://bit.ly/dadglearning.
 - [Intopia's Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
 - [NZ Government Web Accessibility Guide](https://govtnz.github.io/web-a11y-guidance/)
 
+### Desktop screen reader guides
+
+- [Deque's VoiceOver Keyboard Shortcuts on a Mac](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts#vo-mac-basics).
+- [WebAIM's Using VoiceOver to Evaluate Web Accessibility](https://webaim.org/articles/voiceover/).
+- [Deque's NVDA Keyboard Shortcuts](https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts).
+- [WebAIM's Using NVDA to Evaluate Web Accessibility](https://webaim.org/articles/nvda/).
+
+### Mobile screen reader guides
+
+- [VoiceOver on Mobile](https://webaim.org/articles/voiceover/mobile) (only Evaluation section is very web-specific)
+- [VoiceOver Gestures on iOS](https://dequeuniversity.com/screenreaders/voiceover-ios-shortcuts) on Deque
+- [Learn VoiceOver gestures on iPhone](https://support.apple.com/en-gb/guide/iphone/iph3e2e2281/ios) on iPhone User Guide.
+- [Using TalkBack to Evaluate Web Accessibility](https://webaim.org/articles/talkback/) on WebAIM (only Evaluation section is very web-specific)
+- [TalkBack Gestures on Android](https://dequeuniversity.com/screenreaders/talkback-shortcuts) on Deque
+- [Use TalkBack gestures](https://support.google.com/accessibility/android/answer/6151827?hl=en&ref_topic=3529932) on Android Accessibility Help
+
 ## Self-paced learning
   
 ### Talks/videos
