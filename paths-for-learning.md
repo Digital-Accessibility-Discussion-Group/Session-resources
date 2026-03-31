@@ -20,7 +20,6 @@ Short URL for this page: https://bit.ly/dadglearning.
 - Development / testing
   - [Web Accessibility by Google on Udacity](https://www.udacity.com/course/web-accessibility--ud891)
   - [Start Building Accessible Web Applications Today by Marcy Sutton on egghead](https://egghead.io/courses/start-building-accessible-web-applications-today)
-  - [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today) — 17 videos by Marcy Sutton, a developer who was involved in building the aXe tool.
 - Content design
 - UI/visual design
 - Testing
@@ -48,6 +47,8 @@ Short URL for this page: https://bit.ly/dadglearning.
 - [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_overview&technologies=smil%2Cpdf%2Cflash%2Csl&showtechniques=123%2C242)
 - [Intopia's Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
 - [NZ Government Web Accessibility Guide](https://govtnz.github.io/web-a11y-guidance/)
+- [WCAG in Plain English](https://aaardvarkaccessibility.com/wcag-plain-english/)
+- [The WCAG Explained](https://www.getstark.co/wcag-explained/)
 
 ### Desktop screen reader guides
 
@@ -124,6 +125,7 @@ Short URL for this page: https://bit.ly/dadglearning.
 - All roles
   - [Accessibility for Everyone by Laura Kalbag](https://abookapart.com/products/accessibility-for-everyone)
   - [Mismatch – How Inclusion Shapes Design by Kat Holmes](https://mitpress.mit.edu/books/mismatch)
+  - [How to Meet the Web Content Accessibility Guidelines](https://www.wuhcag.com/)
 - Design
   - [A Web for Everyone – Designing Accessible User Experiences by Sarah Horton & Whitney Quesenbery](https://rosenfeldmedia.com/books/a-web-for-everyone/)
   - [Designing Accessible Learning Content by Susi Miller 2025](https://www.thenile.co.nz/books/susi-miller/designing-accessible-learning-content/9781398618206)
