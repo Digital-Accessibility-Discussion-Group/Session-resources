@@ -130,7 +130,7 @@ Short URL for this page: https://bit.ly/dadglearning.
  - All roles
   - [DIA's Digital Accessibility Community of Practice (DACOP)](https://www.digital.govt.nz/standards-and-guidance/nz-government-web-standards/digital-accessibility-community-of-practice) — monthly, online
   - [Digital Accessibility Discussion Group](https://wellingtonuni-professional.nz/course/digital-accessibility-discussion-group/) — monthly in Wellington, in person only
-  - Wellington Accessibility Meetup by Aleph Accessibility (Maia Miller) — quarterly in Wellington, in person and online
+  - [Wellington Accessibility Meetup by Aleph Accessibility (Maia Miller)](https://docs.google.com/forms/d/e/1FAIpQLSfOyi0pd3PavmVrZGjmNjKskZ7u2SgIdhmardWIHlw_MOug3w/viewform) — quarterly in Wellington, in person and online
 
 ### Global accessibility events
 
