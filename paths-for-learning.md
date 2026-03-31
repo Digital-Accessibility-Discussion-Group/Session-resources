@@ -52,6 +52,7 @@ Short URL for this page: https://bit.ly/dadglearning.
 ## Self-paced learning
   
 ### Talks/videos
+
 - All roles
   - [A11yTalks](https://a11ytalks.com/)
   - Weco A11y webinars
@@ -87,7 +88,6 @@ Short URL for this page: https://bit.ly/dadglearning.
 
 - Design
   - [The UX Research and Design Blog by Stephanie Walter](https://stephaniewalter.design/blog/)
- 
 - Development / testing
   - [Adrian Roselli](https://adrianroselli.com/)
   - [Heydon Pickering’s Inclusive Components](https://inclusive-components.design/)
@@ -121,7 +121,6 @@ Short URL for this page: https://bit.ly/dadglearning.
   - [A11y Camp](https://a11ycamp.com.au/) — Melbourne, in person only
   - [axe-con](https://www.deque.com/axe-con/) — online
   - [Inclusive Design 24](https://inclusivedesign24.org/2026/) — online
-
 - Development
   - [Code Camp Wellington](https://www.codecampwellington.nz/) — Wellington, in person only
   - [NZ Tech Rally](https://nztechrally.nz/) — Wellington, in person only
