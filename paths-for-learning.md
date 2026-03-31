@@ -124,6 +124,7 @@ Short URL for this page: https://bit.ly/dadglearning.
 
 - Development
   - [Code Camp Wellington](https://www.codecampwellington.nz/) — Wellington, in person only
+  - [NZ Tech Rally](https://nztechrally.nz/) — Wellington, in person only
 
  ### Meetups
 
